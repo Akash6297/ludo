@@ -4,14 +4,16 @@
 }
 body{ 
     background-color: bisque;
+    background-size: cover;
+    height: 550px;
+    width: 550px;
 }
 h1{
     justify-items: center;
-    
-    margin: 30px;
-    text-shadow: 5px 5px white;
-    font-size: 6rem;
-    color: #f6b93b;
+    margin-left: 115px;
+    text-shadow: 6px 4px white;
+    font-size: 4rem;
+    color: #ed2121;
 }
 .dice{
     justify-items: center;

@@ -1,0 +1,18 @@
+*{
+    /* margin:0; padding:0;  */
+    font-family: 'Acme', sans-serif;
+}
+body{ 
+    background-color: bisque;
+}
+h1{
+    justify-items: center;
+    
+    margin: 30px;
+    text-shadow: 5px 5px white;
+    font-size: 6rem;
+    color: #f6b93b;
+}
+.dice{
+    justify-items: center;
+}

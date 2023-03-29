@@ -13,6 +13,10 @@ h1{
     font-size: 6rem;
     color: #f6b93b;
 }
+.b{
+Width: 400px;
+Hight: 400px;
+}
 .dice{
     justify-items: center;
 }
